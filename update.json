@@ -1,1 +1,9 @@
-{  "releaseNotes": "优化自动识别、截图保存与账单管理；测试版问题请在设置页关于联系开发者",  "versionName": "1.3.30",  "versionCode": 43,  "sha256": "50DAAEC45AEE1FD3B46ACBE8A123C9F75615C121B6133C06C08C188CC291592B",  "apkUrl": "https://github.com/wodeshijie1234/yongqian-site/releases/download/v1.3.30/app-arm64-v8a-debug.apk",  "channel": "beta",  "forceUpdate": false}
+{
+  "versionCode": 44,
+  "versionName": "1.3.31",
+  "apkUrl": "https://github.com/wodeshijie1234/yongqian-site/releases/download/v1.3.31/app-arm64-v8a-debug.apk",
+  "sha256": "35433C3F13DB5A642C2C272A0FFD4C05F541C0F7D2C244EB61DFE19FA20229C5",
+  "releaseNotes": "修复手动 OCR 分类记忆与稳定账单 ID；优化自动识别与账单截图保存；测试版问题请在设置页关于联系开发者",
+  "channel": "beta",
+  "forceUpdate": false
+}
