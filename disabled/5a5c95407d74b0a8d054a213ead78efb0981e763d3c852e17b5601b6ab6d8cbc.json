@@ -1,7 +1,7 @@
 {
   "version": 1,
   "productId": "codex-mobile-full",
-  "status": "disabled",
+  "status": "enabled",
   "deviceHash": "5a5c95407d74b0a8d054a213ead78efb0981e763d3c852e17b5601b6ab6d8cbc",
-  "updatedAt": "2026-09-01T05:58:32.4691157Z"
+  "updatedAt": "2026-09-01T05:58:38.8707149Z"
 }
