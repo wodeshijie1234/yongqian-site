@@ -31,6 +31,9 @@ jobs:
           mkdir -p _site/assets _site/downloads
           cp index.html app.js styles.css update.json yongqian-standalone.html preview-desktop.png preview-mobile.png _site/
           cp -R assets/. _site/assets/
+          if test -d public-site; then cp -R public-site _site/public-site; fi
+          if test -d disabled; then cp -R disabled _site/disabled; fi
+          if test -d activations; then cp -R activations _site/activations; fi
 
           version="$(jq -r '.versionName' update.json)"
           expected_sha="$(jq -r '.sha256' update.json | tr '[:lower:]' '[:upper:]')"
