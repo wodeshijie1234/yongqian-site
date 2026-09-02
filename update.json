@@ -1,9 +1,9 @@
 {
-  "versionCode": 44,
-  "versionName": "1.3.31",
-  "apkUrl": "https://github.com/wodeshijie1234/yongqian-site/releases/download/v1.3.31/app-arm64-v8a-debug.apk",
-  "sha256": "35433C3F13DB5A642C2C272A0FFD4C05F541C0F7D2C244EB61DFE19FA20229C5",
-  "releaseNotes": "修复手动 OCR 分类记忆与稳定账单 ID；优化自动识别与账单截图保存；测试版问题请在设置页关于联系开发者",
+  "versionCode": 45,
+  "versionName": "1.3.32",
+  "apkUrl": "https://github.com/wodeshijie1234/yongqian-site/releases/download/v1.3.32/app-arm64-v8a-debug.apk",
+  "sha256": "57F336D236739EAAA51606AFA76EAFD69D0F10B693061A7E704C69351181517E",
+  "releaseNotes": "统一“本周”为周一至周日；新增脱敏设备登记以支持激活管理；优化管理台设备同步。测试版问题请在设置页关于联系开发者",
   "channel": "beta",
   "forceUpdate": false
 }
