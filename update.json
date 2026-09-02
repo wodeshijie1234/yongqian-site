@@ -1,9 +1,9 @@
 {
-  "versionCode": 45,
-  "versionName": "1.3.32",
-  "apkUrl": "https://github.com/wodeshijie1234/yongqian-site/releases/download/v1.3.32/app-arm64-v8a-debug.apk",
-  "sha256": "57F336D236739EAAA51606AFA76EAFD69D0F10B693061A7E704C69351181517E",
-  "releaseNotes": "本周统一从周一开始，到周日结束。测试版使用中如遇问题，请在设置页“关于”中联系开发者。",
+  "versionCode": 46,
+  "versionName": "1.3.33",
+  "apkUrl": "https://wodeshijie1234.github.io/yongqian-site/downloads/v1.3.33/app-arm64-v8a-debug.apk",
+  "sha256": "5BE0EC30551B20854D100C5E50DC493287B050C2D743502E446CFB91492C14AD",
+  "releaseNotes": "修复更新包下载失败、下载通知消失和重复下载问题；本周统一从周一开始，到周日结束。",
   "channel": "beta",
   "forceUpdate": false
 }
