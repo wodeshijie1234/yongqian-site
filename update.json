@@ -1,9 +1,9 @@
 {
-  "versionCode": 46,
-  "versionName": "1.3.33",
-  "apkUrl": "https://wodeshijie1234.github.io/yongqian-site/downloads/v1.3.33/app-arm64-v8a-debug.apk",
-  "sha256": "5BE0EC30551B20854D100C5E50DC493287B050C2D743502E446CFB91492C14AD",
-  "releaseNotes": "修复更新包下载失败、下载通知消失和重复下载问题；本周统一从周一开始，到周日结束。",
+  "versionCode": 47,
+  "versionName": "1.3.34",
+  "apkUrl": "https://wodeshijie1234.github.io/yongqian-site/downloads/v1.3.34/app-arm64-v8a-debug.apk",
+  "sha256": "F61AA3452CFC45DF1F40D94B9BE772809AD47F8119CE830A2E4CEE97B28618BD",
+  "releaseNotes": "设备码现在支持点击复制，并可查看设备同步状态；网络恢复后会自动重试同步。",
   "channel": "beta",
   "forceUpdate": false
 }
