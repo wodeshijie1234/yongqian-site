@@ -1,9 +1,9 @@
 {
-  "versionCode": 47,
-  "versionName": "1.3.34",
-  "apkUrl": "https://wodeshijie1234.github.io/yongqian-site/downloads/v1.3.34/app-arm64-v8a-debug.apk",
-  "sha256": "F61AA3452CFC45DF1F40D94B9BE772809AD47F8119CE830A2E4CEE97B28618BD",
-  "releaseNotes": "设备码现在支持点击复制，并可查看设备同步状态；网络恢复后会自动重试同步。",
+  "versionCode": 48,
+  "versionName": "1.4.0",
+  "apkUrl": "https://wodeshijie1234.github.io/yongqian-site/downloads/v1.4.0/app-arm64-v8a-debug.apk",
+  "sha256": "EFA8ECBDF69053B5C940AB67BD4C5D847DDE4F9876D384433EC9E6268963B721",
+  "releaseNotes": "新增消费汇总页，可按当前预算周期查看预算、收支、收入和支出结构；账单页会实时显示当前筛选结果的累计金额，并修复未纳入预算的账单混入“已支出”明细的问题。",
   "channel": "beta",
   "forceUpdate": false
 }
