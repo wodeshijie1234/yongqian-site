@@ -43,6 +43,12 @@ jobs:
           test "$(jq -r '.channel' update.json)" = "beta"
           test "$(jq -r '.forceUpdate' update.json)" = "false"
 
+          release_json="$(gh api "repos/${{ github.repository }}/releases/tags/v${version}")"
+          test "$(jq -r '.prerelease' <<<"$release_json")" = "true"
+          test "$(jq -r '.draft' <<<"$release_json")" = "false"
+          asset_count="$(jq '[.assets[] | select(.name == "app-arm64-v8a-debug.apk")] | length' <<<"$release_json")"
+          test "$asset_count" = "1"
+
           mkdir -p "_site/downloads/v${version}"
           gh release download "v${version}" --repo "${{ github.repository }}" \
             --pattern 'app-arm64-v8a-debug.apk' --dir "_site/downloads/v${version}"
