@@ -3,7 +3,7 @@
   "versionName": "1.4.7",
   "apkUrl": "https://wodeshijie1234.github.io/yongqian-site/downloads/v1.4.7/app-arm64-v8a-debug.apk",
   "sha256": "E961746E75A5B3DFB8AC6B1281DBF6425333A421803AC022A2F0362B37A84F9A",
-  "releaseNotes": "试用到期后将进入只读模式，已有账单、统计、截图和导出仍可使用；精简“关于用钱计划”页面，并新增简明隐私说明入口。",
+  "releaseNotes": "修复一些已知问题",
   "channel": "beta",
   "forceUpdate": false
 }
