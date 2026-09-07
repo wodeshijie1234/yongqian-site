@@ -1,9 +1,9 @@
 {
-  "versionCode": 49,
-  "versionName": "1.4.1",
-  "apkUrl": "https://wodeshijie1234.github.io/yongqian-site/downloads/v1.4.1/app-arm64-v8a-debug.apk",
-  "sha256": "B8326E24D2B27588229717E68E10EC20F249C82617AC7EC2D2753A0384A85A1E",
-  "releaseNotes": "修复部分网络环境下状态长期显示待同步的问题，并在关于页提供立即重试入口。",
+  "versionCode": 53,
+  "versionName": "1.4.5",
+  "apkUrl": "https://wodeshijie1234.github.io/yongqian-site/downloads/v1.4.5/app-arm64-v8a-debug.apk",
+  "sha256": "0FE42430FAD3EF029675254EB05FC62BF7DE608A76B86382FBFBB771593AB793",
+  "releaseNotes": "提升支付成功及转账完成页面的自动识别稳定性；优化“待对方确认收款”等用途识别，避免同一账单重复新增；识别后的账单可修改日期和时间，并改善截图保存及当前周期账单统计。",
   "channel": "beta",
   "forceUpdate": false
 }
