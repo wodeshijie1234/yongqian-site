@@ -1,9 +1,9 @@
 {
-  "versionCode": 56,
-  "versionName": "1.4.8",
-  "apkUrl": "https://wodeshijie1234.github.io/yongqian-site/downloads/v1.4.8/app-arm64-v8a-debug.apk",
-  "sha256": "9C649B9A2CC101D6102350ADAF178796AA6A6C0374FF2EFF3857F1930C80BB5D",
-  "releaseNotes": "优化自动识别的触发稳定性和识别准确率，减少重复记账与误识别；建议测试版用户及时升级。",
+  "versionCode": 57,
+  "versionName": "1.4.9",
+  "apkUrl": "https://wodeshijie1234.github.io/yongqian-site/downloads/v1.4.9/app-arm64-v8a-debug.apk",
+  "sha256": "637A8F15FFDBA790DAB582448A1BC53EB56A4F8B6DCF1DD91DBA9DE817338D65",
+  "releaseNotes": "修复一些已知问题",
   "channel": "beta",
   "forceUpdate": false
 }
