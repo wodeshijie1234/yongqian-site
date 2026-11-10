@@ -1,9 +1,9 @@
 {
-  "versionCode": 57,
-  "versionName": "1.4.9",
-  "apkUrl": "https://wodeshijie1234.github.io/yongqian-site/downloads/v1.4.9/app-arm64-v8a-debug.apk",
-  "sha256": "637A8F15FFDBA790DAB582448A1BC53EB56A4F8B6DCF1DD91DBA9DE817338D65",
-  "releaseNotes": "修复一些已知问题",
+  "versionCode": 58,
+  "versionName": "1.4.10",
+  "apkUrl": "https://wodeshijie1234.github.io/yongqian-site/downloads/v1.4.10/app-arm64-v8a-debug.apk",
+  "sha256": "D6DC4E59FDC92C0DFBBD2FB66E46CF4DEE5D51827A03FA0C667B37AD19CBC4F3",
+  "releaseNotes": "新增手机扫码迁移：两台手机连接同一 Wi-Fi 或热点，即可迁移账单、截图、预算和分类记忆。迁入前自动备份，支持恢复迁入前数据。入口：设置 → 迁移。",
   "channel": "beta",
   "forceUpdate": false
 }
